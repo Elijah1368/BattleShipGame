@@ -1,12 +1,32 @@
 # BattleShipGame
 A fully functional Battleship game made entirely in Java. Play against AI computer in a client interface to see who is the better battleshiper. 
+
+IMPORTANT
+To start game: 
+
+1.) Download and extract repository
+
+2.) In your IDE, import and open the project
+
+3.) Go to src folder, then go to Controller folder, then click BattleShipGame
+
+4.) Run main method
+
+Or:
+
+1.) Download and extract repository 
+
+2.) In your terminal, go to where you downloaded this repository, and go to src folder, then Controller folder
+
+3.) type: "java -cp \<Your Project Directory\>\BattleShipGame\src .\BattleShipGame.java"
+
 ![BattleshipPreview](https://raw.githubusercontent.com/Elijah1368/BattleShipGame/master/Assets/battleship.png)
 
 The "-" represents the spaces in the battleship map. The map on top, is the computer's and the map on the bottom is the user's.
 The "+" represents the battleships you have. Since the computer's ships are hidden to the user's, it is all "-". The "O" represents all the hits
 you made in the computer's map that missed. It will display "X" if you hit a computer's battleship. The "X" in your map represents all the hits the computer made.
 
-![BattleshipTest](https://raw.githubusercontent.com/Elijah1368/BattleShipGame/master/BattleshipPlacement.png)
+![Battleshipplacement](https://raw.githubusercontent.com/Elijah1368/BattleShipGame/master/Assets/BattleshipPlacement.png)
 You can have your ship placed automatically or manually before the start of the game. Ships must be one space apart from each other and must be within map bounds.
 
 ![BattleshipPreview](https://raw.githubusercontent.com/Elijah1368/BattleShipGame/master/Assets/debug.png)
