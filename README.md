@@ -18,7 +18,7 @@ Or:
 
 2.) In your terminal, go to where you downloaded this repository, and go to src folder, then Controller folder
 
-3.) type: "java -cp \<Your Project Directory\>\BattleShipGame\src .\BattleShipGame.java"
+3.) type: "java -cp \<Your Project Directory\>\BattleShipGame\src\Controller\BattleShipGame.java"
 
 ![BattleshipPreview](https://raw.githubusercontent.com/Elijah1368/BattleShipGame/master/Assets/battleship.png)
 
