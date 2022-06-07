@@ -6,19 +6,12 @@ To start game:
 
 1.) Download and extract repository
 
-2.) In your IDE, import and open the project
+2.) Open Terminal
 
-3.) Go to src folder, then go to Controller folder, then click BattleShipGame
+3.) Change Directory to project folder
 
-4.) Run main method
+4.) Type java -jar out/artifacts/BattleShipGame_jar/BattleShipGame.jar
 
-Or:
-
-1.) Download and extract repository 
-
-2.) In your terminal, go to where you downloaded this repository, and go to src folder, then Controller folder
-
-3.) type: "java -cp \<Your Project Directory\>\BattleShipGame\src\Controller\BattleShipGame.java"
 
 ![BattleshipPreview](https://raw.githubusercontent.com/Elijah1368/BattleShipGame/master/Assets/battleship.png)
 
